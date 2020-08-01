@@ -1,19 +1,19 @@
 
-@font-face {
+h1 {
     font-family: 'Noto Sans JP', sans-serif;
     font-style: normal;
     font-weight: 400;
 }
 
 
-@font-face {
+h2 {
     font-family: 'Noto Sans JP', sans-serif;
     font-style: normal;
     font-weight: 700;
 }
 
 
-@font-face {
+h3 {
     font-family: 'Noto Sans JP', sans-serif;
     font-style: italic;
     font-weight: 400;
